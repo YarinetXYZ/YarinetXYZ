@@ -4,8 +4,8 @@ After experiencing relatives fall victim to significant financial cybercrimes fi
 
 ## Objecives:
 - I’m currently working on projects to enhance my skills as a SOC Analyst, focusing on threat detection and incident response.
-- Two years of experience as a Level 2 IT Support Technician, I’m aiming to transition into a cybersecurity career. 
-- Researching emerging cyber threats and penetration testing methodologies to improve proactive defense strategies.
+- Two years of experience as a Level 2 IT Support Technician, attempting to transition into a cybersecurity career. 
+- Researching threat act and penetration testing methodologies to improve proactive defense strategies.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 - Building expertise in endpoint security and access management to strengthen organizational defenses.
 - Experimenting with SIEM tools and threat intelligence platforms to gain real-world security operations experience.
 
