@@ -19,24 +19,24 @@ After experiencing relatives fall victim to significant financial cybercrimes fi
   </thead>
   <tbody>
     <tr>
-      <td>File Integrity Checker</td>
-      <td><a href="https://github.com/bnmou/SOAR_EDR/tree/main">https://github.com/YarinetXYZ</a></td>
+      <td>File Integrity Monitor</td>
+      <td><a href="https://github.com/YarinetXYZ/FIM">https://github.com/YarinetXYZ/FIM</a></td>
+    </tr>
+    <tr>
+      <td>Hive Splunk Wazuh Log Forwarder</td>
+      <td><a href="https://github.com/YarinetXYZ/HSW">https://github.com/YarinetXYZ/HSW</a></td>
     </tr>
     <tr>
       <td>File Integrity Checker</td>
-      <td><a href="https://github.com/bnmou/SOAR_EDR/tree/main">https://github.com/YarinetXYZ</a></td>
+      <td><a href="https://github.com/YarinetXYZ">https://github.com/YarinetXYZ</a></td>
     </tr>
     <tr>
       <td>File Integrity Checker</td>
-      <td><a href="https://github.com/bnmou/SOAR_EDR/tree/main">https://github.com/YarinetXYZ</a></td>
+      <td><a href="">https://github.com/YarinetXYZ</a></td>
     </tr>
     <tr>
       <td>File Integrity Checker</td>
-      <td><a href="https://github.com/bnmou/SOAR_EDR/tree/main">https://github.com/YarinetXYZ</a></td>
-    </tr>
-    <tr>
-      <td>File Integrity Checker</td>
-      <td><a href="https://github.com/bnmou/SOAR_EDR/tree/main">https://github.com/YarinetXYZ</a></td>
+      <td><a href="https://github.com/YarinetXYZ">https://github.com/YarinetXYZ</a></td>
     </tr>
   </tbody>
 </table>
