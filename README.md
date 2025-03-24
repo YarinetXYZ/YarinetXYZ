@@ -24,8 +24,8 @@
       <td><a href="https://github.com/YarinetXYZ/HSW">https://github.com/YarinetXYZ/HSW</a></td>
     </tr>
     <tr>
-      <td>File Integrity Checker</td>
-      <td><a href="https://github.com/YarinetXYZ">https://github.com/YarinetXYZ</a></td>
+      <td>Wi-Fi Mango</td>
+      <td><a href="https://github.com/YarinetXYZ/WFM">https://github.com/YarinetXYZ/WFM</a></td>
     </tr>
     <tr>
       <td>File Integrity Checker</td>
