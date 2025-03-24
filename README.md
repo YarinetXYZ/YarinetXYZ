@@ -24,7 +24,7 @@
       <td><a href="https://github.com/YarinetXYZ/HSW">https://github.com/YarinetXYZ/HSW</a></td>
     </tr>
     <tr>
-      <td>Wi-Fi Mango</td>
+      <td>Wi-Fi Mango Clone</td>
       <td><a href="https://github.com/YarinetXYZ/WFM">https://github.com/YarinetXYZ/WFM</a></td>
     </tr>
     <tr>
