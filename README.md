@@ -28,8 +28,8 @@
       <td><a href="https://github.com/YarinetXYZ/WFM">https://github.com/YarinetXYZ/WFM</a></td>
     </tr>
     <tr>
-      <td>File Integrity Checker</td>
-      <td><a href="">https://github.com/YarinetXYZ</a></td>
+      <td>Threat Intelligence Report</td>
+      <td><a href="https://github.com/YarinetXYZ/TIR">https://github.com/YarinetXYZ/TIR</td>
     </tr>
     <tr>
       <td>File Integrity Checker</td>
