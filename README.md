@@ -20,8 +20,8 @@
       <td><a href="https://github.com/YarinetXYZ/FIM">https://github.com/YarinetXYZ/FIM</a></td>
     </tr>
     <tr>
-      <td>Hive Splunk Wazuh Log Forwarder</td>
-      <td><a href="https://github.com/YarinetXYZ/HSW">https://github.com/YarinetXYZ/HSW</a></td>
+      <td>Complete SOC Lab</td>
+      <td><a href="https://github.com/YarinetXYZ/CSK">https://github.com/YarinetXYZ/CSL</a></td>
     </tr>
     <tr>
       <td>Wi-Fi Mango Clone</td>
