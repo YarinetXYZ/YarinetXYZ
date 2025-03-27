@@ -21,7 +21,7 @@
     </tr>
     <tr>
       <td>Complete SOC Lab</td>
-      <td><a href="https://github.com/YarinetXYZ/CSK">https://github.com/YarinetXYZ/CSL</a></td>
+      <td><a href="https://github.com/YarinetXYZ/CSL">https://github.com/YarinetXYZ/CSL</a></td>
     </tr>
     <tr>
       <td>Wi-Fi Mango Clone</td>
