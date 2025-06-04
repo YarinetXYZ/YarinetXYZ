@@ -31,10 +31,6 @@
       <td>Threat Intelligence Report</td>
       <td><a href="https://github.com/YarinetXYZ/TIR">https://github.com/YarinetXYZ/TIR</td>
     </tr>
-    <tr>
-      <td>File Integrity Checker</td>
-      <td><a href="https://github.com/YarinetXYZ">https://github.com/YarinetXYZ</a></td>
-    </tr>
   </tbody>
 </table>
 
