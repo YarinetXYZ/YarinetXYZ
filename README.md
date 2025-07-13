@@ -16,11 +16,11 @@
   </thead>
   <tbody>
     <tr>
-      <td>File Integrity Monitor</td>
+      <td>FILE INTEGRITY MONITOR</td>
       <td><a href="https://github.com/YarinetXYZ/FIM">https://github.com/YarinetXYZ/FIM</a></td>
     </tr>
     <tr>
-      <td>Complete SOC Lab</td>
+      <td>COMPLETE SOC LAB</td>
       <td><a href="https://github.com/YarinetXYZ/CSL">https://github.com/YarinetXYZ/CSL</a></td>
     </tr>
     <tr>
@@ -28,7 +28,7 @@
       <td><a href="https://github.com/YarinetXYZ/SBE">https://github.com/YarinetXYZ/WFM</a></td>
     </tr>
     <tr>
-      <td>Threat Intelligence Report</td>
+      <td>THREAT INTELLIGENCE REPORT</td>
       <td><a href="https://github.com/YarinetXYZ/TIR">https://github.com/YarinetXYZ/TIR</td>
     </tr>
   </tbody>
