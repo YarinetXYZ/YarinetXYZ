@@ -25,7 +25,7 @@
     </tr>
     <tr>
       <td>STIG BASELINE ENFORCER</td>
-      <td><a href="https://github.com/YarinetXYZ/SBE">https://github.com/YarinetXYZ/BSE</a></td>
+      <td><a href="https://github.com/YarinetXYZ/SBE">https://github.com/YarinetXYZ/SBE</a></td>
     </tr>
     <tr>
       <td>THREAT INTELLIGENCE REPORT</td>
