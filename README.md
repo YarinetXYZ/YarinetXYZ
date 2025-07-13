@@ -24,8 +24,8 @@
       <td><a href="https://github.com/YarinetXYZ/CSL">https://github.com/YarinetXYZ/CSL</a></td>
     </tr>
     <tr>
-      <td>Wi-Fi Mango Phishing</td>
-      <td><a href="https://github.com/YarinetXYZ/WFM">https://github.com/YarinetXYZ/WFM</a></td>
+      <td>STIG BASELINE ENFORCER</td>
+      <td><a href="https://github.com/YarinetXYZ/SBE">https://github.com/YarinetXYZ/WFM</a></td>
     </tr>
     <tr>
       <td>Threat Intelligence Report</td>
