@@ -17,19 +17,19 @@
   <tbody>
     <tr>
       <td>FILE INTEGRITY MONITOR</td>
-      <td><a href="https://github.com/YarinetXYZ/FIM">https://github.com/YarinetXYZ/FIM</a></td>
+      <td><a href="https://github.com/YarinetXYZ/FIM">FIM</a></td>
     </tr>
     <tr>
       <td>COMPLETE SOC LAB</td>
-      <td><a href="https://github.com/YarinetXYZ/CSL">https://github.com/YarinetXYZ/CSL</a></td>
+      <td><a href="https://github.com/YarinetXYZ/CSL">CSL</a></td>
     </tr>
     <tr>
       <td>STIG BASELINE ENFORCER</td>
-      <td><a href="https://github.com/YarinetXYZ/SBE">https://github.com/YarinetXYZ/SBE</a></td>
+      <td><a href="https://github.com/YarinetXYZ/SBE">SBE</a></td>
     </tr>
     <tr>
       <td>THREAT INTELLIGENCE REPORT</td>
-      <td><a href="https://github.com/YarinetXYZ/TIR">https://github.com/YarinetXYZ/TIR</td>
+      <td><a href="https://github.com/YarinetXYZ/TIR">TIR</td>
     </tr>
     <tr>
       <td>SAMPLE</td>
